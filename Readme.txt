@@ -1,1 +1,0 @@
-add dhtc sensor
